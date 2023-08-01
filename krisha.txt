@@ -1,0 +1,9 @@
+1.npm init --yes --->create package.json
+2. npm install redux --> it will install as dependency
+3. make javascript file index.js ---> write--console.log("From index") and in terminal node index to see output
+4. 3 core concepts
+  a.state--->holds state of app
+  b.action--->describe changes in state of app
+  c.reducer--->carries out state transition depending upon the action
+5.create first redux action in index.js
+6.make the reducer in index.js

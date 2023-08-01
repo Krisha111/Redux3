@@ -1,0 +1,12 @@
+npm i redux-logger
+npm i -g json-server    
+
+to run local server
+// to run this npx json-server --watch -p 3000 db.json
+
+im browser 
+ http://localhost:3000/accounts--------resourses
+  http://localhost:3000-----home
+
+npm i axios
+npm i redux-thunk
